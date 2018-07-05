@@ -1,0 +1,11 @@
+cat # valid
+"dog" # invalid
+count  # valid
+passw0rd # valid
+username # valid
+webpage-url # invalid
+speed_over_disctance # valid
+middle_name # valid
+100points # invalid
+?answer # invalid
+registered_temperature # valid
