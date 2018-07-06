@@ -6,3 +6,5 @@ result = result + 8
 result = result + 10
 result = result + 12
 result = result + 14
+
+puts "The result is #{result}"
