@@ -1,4 +1,4 @@
-how_do_you = I'm
-feel = Happy
+how_do_you = "I am"
+feel = "Happy"
 
-puts "how_do_you" + "feel"
+puts "I am" + " Happy"
